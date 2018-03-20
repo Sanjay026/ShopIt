@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+    <android.support.v7.widget.CardView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/cardview1"
+        app:cardElevation="4dp"
+        app:cardMaxElevation="4dp"
+        android:layout_weight="1"
+        app:contentPadding="@dimen/activity_horizontal_margin"
+
+        >
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/relativecard1">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ind"
+                android:id="@+id/imagecard1"
+                android:layout_margin="@dimen/activity_vertical_margin"
+
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textcard1"
+                android:text="name"
+                android:layout_below="@+id/imagecard1"
+                android:textStyle="bold"
+
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textcard2"
+                android:text="Price"
+                android:textColor="@color/colorPrimary"
+                android:layout_below="@+id/textcard1"
+                android:textStyle="bold"
+                />
+
+
+        </RelativeLayout>
+
+
+    </android.support.v7.widget.CardView>
+    <View
+        android:layout_width="1dp"
+        android:layout_height="175dp"
+        android:background="#000"
+        android:layout_gravity="center"
+        />
+    <android.support.v7.widget.CardView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/cardview2"
+        android:layout_weight="1"
+        app:cardMaxElevation="4dp"
+        app:cardElevation="4dp"
+
+        app:contentPadding="@dimen/activity_horizontal_margin"
+
+        >
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/relativecard2">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/shoes"
+                android:id="@+id/imagecard2"
+                android:layout_margin="@dimen/activity_vertical_margin"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/text2card"
+                android:text="name"
+                android:layout_below="@+id/imagecard2"
+                android:textStyle="bold"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/text2card2"
+                android:text="Price"
+                android:textColor="@color/colorPrimary"
+                android:layout_below="@+id/text2card"
+                android:textStyle="bold"
+                />
+
+
+        </RelativeLayout>
+
+
+    </android.support.v7.widget.CardView>
+
+    </LinearLayout>
+    <View
+        android:layout_width="275dp"
+        android:layout_height="1dp"
+        android:background="#000"
+        android:layout_gravity="center"
+        />
+
+</LinearLayout>

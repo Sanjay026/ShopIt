@@ -1,0 +1,242 @@
+<resources>
+    <string name="app_name">ShopIt</string>
+    <string name="mumbai">Mumbai is not only famous for the international fashion brands and labels,
+        but is also home to a wide assortment of local markets,
+        boutiques and shopping malls that sell almost everything that a local Mumbaikar needs!
+    The markets are located at suburbs and if you are good at bargaining, you can
+    get items for half the price. In Mumbai, you can find the latest outfits, unique furniture,</string>
+     <string name="cardview">This is the string of the card view
+    lets see what will happen to this when we use this type of the layout in our app</string>
+    <string name="shop_now">Shop Now</string>
+    <string name="description">
+        Outer Material:CanvasLifestyle: CasualClosure Type: Lace-UpSole Material:RubberAnkle Heigth:Low-Top
+    Light Weighted Sneakers
+    Warranty Type: Manufacturer</string>
+    <string-array name="andra">
+        <item>Different crafts and antique items can be purchased from Andhra Pradesh. However, knowing all the details about the things you want to buy always helps a lot in deciding the best choice for yourselves. Some of the important information regarding the Andhra Pradesh collectibles is as follows:</item>
+        <item>1.Budithi Art</item>
+        <item>2.Mangalgiri Sarees</item>
+        <item>3.Etikoppaka Wooden Crafts</item>
+        <item>4.Eluru Carpets</item>
+        <item>5.Dharmavaran Sarees</item>
+        <item>6.Pochampalli Silk and Cotton Sarees</item>
+        <item>7.Kondapalli Toys</item>
+        <item>8.Kalamkari Textile</item>
+    </string-array>
+    <string-array name="bihar">
+        <item>Bihar is always applauded for its distinctness and cultural vibrancy which keeps this state apart from others. Uniqueness of this region in terms of cultural diversification, religious harmony and of course beautiful handicrafts and typically designed regional products seeks the attention of all those visiting the state. You can’t literally avoid shopping during your visits to Bihar. You will definitely buy stuffs that reflects the essence of Bihar. and so do they make you feel to gift others with pride. Such items are sold in all parts of state in genuine price ranges.</item>
+        <item>1.Madhubani Painting</item>
+        <item>2.Silk Fabrics</item>
+        <item>3.Silk Sarees and Stoles</item>
+        <item>4.Zari Sarees</item>
+        <item>5.Shopping for Embroidery Works</item>
+        <item>7.Shopping for BeadWork</item>
+        <item>8.Shopping for Terracota work</item>
+    </string-array>
+    <string-array name="chhatis">
+        <item>The tribes of the state of Chhattisgarh are amazingly skilled in making a wide variety of handicrafts. So great is the attraction of these handicrafts, that shopping in Bilaspur is almost a captivating activity for the tourists who come to visit the state.</item>
+        <item>Local craftsmen produce an unbelievable variety of handcrafted items using natural materials like wood, stone, feathers, bamboo, bone, horn, as well as bell metal, gold, silver and paper. Hand woven fabric, Pithora paintings, colored beads and chunky jewellery, Dokra metal animals and figurines, carved woodwork are some special things available for visitors to buy. The main item in shopping in Bilaspur is the Kosa silk sarees and dress materials which catches the fancy of every traveler.</item>
+        <item>Some of the items are as follows</item>
+        <item>1.Wooden crafts</item>
+        <item>2.Bamboo crafts</item>
+        <item>3.Bell metal items</item>
+        <item>4.Wroght iron items</item>
+        <item>5.Terracota</item>
+        <item>6.Stone Sculpting</item>
+        <item>7.Cotton fabrics</item>
+    </string-array>
+    <string-array name="Delhi">
+        <item>Shopping in this great city has always been a spectacular experience to so many tourists.Here is a list of some of the best things that are to be purchased from Delhi.</item>
+        <item>1.Elegant Handicrafts</item>
+        <item>2.Furniture Items</item>
+        <item>3.Bags and footwears</item>
+        <item>4.Jewellery</item>
+        <item>5.Trendy Designer Wear</item>
+        <item>6.Books</item>
+        <item>7.Computer and Accessories</item>
+    </string-array>
+    <string-array name="Goa">
+        <item>“Goa” one of the most desired destinations of Sun, Sand and Beaches across the world is famous for shopping also, from flea market selling beach wear, beads and flip-flops to food markets selling anything from Goan sausages and seafood to vegetables and fruit to both local and international fashion designers boutiques selling exclusive fashion products and accessories and more no doubt make shopping in Goa is definitely a delight.</item>
+        <item>Some of most significant things in Goa are listed below:</item>
+        <item>1.Wooden Carvings</item>
+        <item>2.Handicrafts</item>
+        <item>3.Music</item>
+        <item>4.Painted Tiles</item>
+
+    </string-array>
+    <string-array name="Gujrat">
+        <item>Gujrat is famous for its  embroidered garments and boutique items.The people who love to shop and collect the unique things from different places, for them Gujarat is the best place to shop at. The handicrafts and embroidery items have a history of its own and is distinct in its own style. The textile handicrafts of Gujarat are well known in the world. They are more traditional in feature as well their handicraft items for home decoration.</item>
+        <item>Here is the checklist of items in Gujrat:</item>
+        <item>1.Bandhni</item>
+        <item>2.Block Printed Fabrics</item>
+        <item>3.Applique and Patch work</item>
+        <item>3.Lacquer Furniture</item>
+        <item>4.Ethenic Garments</item>
+        <item>5.Embroidered footwear</item>
+        <item>6.Handloom and Handicrafts</item>
+        <item>7.Wooden Toys and Decoration</item>
+        <item>8.Cloth Toys</item>
+    </string-array>
+    <string-array name="Himachal">
+        <item>Himachal is globally renowned for woolen clothes, wood craft, handicraft and the fruits. The hilly region of Northern Part of India has however free from major industries, but there are a number of handicraft centers out here that produce unique and eye-catching products that are not only used in day to day life, but at the same add more glory to one’s home interior decoration.</item>
+        <item>Here is the list of items you can shop in Himachal</item>
+        <item>1.Woolen Materials</item>
+        <item>2.Wood Items and Traditional Artifacts</item>
+        <item>3.Handicrafts</item>
+        <item>4. Old Treasures and Beautiful Jewelries</item>
+        <item>5.Paintings</item>
+    </string-array>
+    <string-array name="Jammu">
+        <item>Jammu and Kashmir being the state with array of ethnic arts and crafts has a lot to offer for shopping.State has three regions Jammu, Kashmir and Ladakh which are distinctively different from each other. All these three regions have an assortment of fascinating products for shopping may it be handicrafts, souvenirs or gifts to take back home</item>
+        <item>The name of the shopping items are:</item>
+        <item>1.Pashmina and Shahtoosh Shawls</item>
+        <item>2.Carpets</item>
+        <item>3.Wooden Carvings</item>
+        <item>4.Papier Mache</item>
+        <item>5.Traditional Clothes</item>
+    </string-array>
+    <string-array name="Jhar">
+        <item>Jharkhand has a rich tradition of art and culture. The artisans or rather artists of Jharkhand have an expert hand for preparing delicate, beautiful and elegant handicrafts. The newly formed Jharkhand state holds several groups of tribes. Tribal arts and crafts are the reflection of their tradition. These handicrafts are the beautiful items to gift your near and dear ones.</item>
+        <item>The different handicrafts in Jharkhand include the following:</item>
+        <item>1.Wooden Crafts</item>
+        <item>2.Bamboo Works</item>
+        <item>3.Metal Works</item>
+        <item>4.Stone Carvings</item>
+        <item>5.Ornaments</item>
+        <item>6.Toy Making</item>
+    </string-array>
+    <string-array name="Karnat">
+        <item>Shopping in Karnataka can be a marvelous experience as Karnataka has much to display to the tourists. It is said that Karnataka is a shopper
+            s paradise. With dazzling shopping arcades and shopping malls strewn all around the state, Karnataka has become a shopping hub in India. With its sparkling silks, sandalwood and rosewood carvings and exquisite handicrafts, Karnataka excels as the shoppers paradise.</item>
+        <item>Shopping in Karnataka include:</item>
+        <item>1.Sandalwood sculptures and oil</item>
+        <item>2.Bidriware</item>
+        <item>3.Metal Lamps</item>
+        <item>4.Wood Carvings</item>
+        <item>5.Inlay Work</item>
+        <item>6.Mysore Silks</item>
+        <item>7.Mysore Paintings</item>
+        <item>8.Bijapur Sarees</item>
+        <item>9.Bijapur Jewellery</item>
+        <item>10.Bijapur Handlooms</item>
+        <item>11.Lambani Jewellery</item>
+        <item>12.Handlooms From Guledgudda</item>
+        <item>13.Ilkal Sarees</item>
+    </string-array>
+    <string-array name="Kerala">
+        <item>Kerala are famous for its tradtion and culture. The state is renowned for its handlooms, gold ornaments, spices. The handicrafts of Kerala are known for their uniqueness of style, perfection of form and elegance of design.</item>
+        <item>Shopping in Kerala include the following:</item>
+        <item>1.Handicrafts</item>
+        <item>3.Spices</item>
+        <item>2.Nettipattom</item>
+        <item>3.Kasavu Sari,Dresses,Drapes</item>
+        <item>4.Mural Painting</item>
+        <item>5.Jewellery</item>
+    </string-array>
+    <string-array name="Maha">
+        <item>Maharashtra handicrafts are rich in variety and selection. Maharashtra handicraft industry produces many unique and interesting crafts of Maharashtra that are used in daily needs</item>
+        <item>Shopping in Maharastra include the following:</item>
+        <item>1.Bidriware</item>
+        <item>2.Kolhapuri Chappals</item>
+        <item>3.Kolhapuri Jewellery</item>
+        <item>4.Mashroo and Himroo</item>
+        <item>5.Silver Artifects</item>
+        <item>6.Paithani Sarees</item>
+        <item>7.Warli Painting</item>
+        <item>8.Terracotta and pottery</item>
+        <item>9.Sawantwadi wooden crafts</item>
+        <item>10.Narayan Peth</item>
+    </string-array>
+    <string-array name="pondi">
+        <item>Pondicherry is a shoppers delight, offering an array of shops, boutiques and department stores for the passionate shopper. Pondicherry being an octroi-free destination for everything, the prices of whatever you buy while Shopping in Pondicherry, will naturally be cheaper.</item>
+        <item>Shopping in Pondicherry include the following:</item>
+        <item>1.TextTiles</item>
+        <item>2.Pottery</item>
+        <item>3.Leather Products</item>
+        <item>4.The Boutiques of Pondicherry</item>
+        <item>5.Handmade Paper</item>
+    </string-array>
+    <string-array name="Punjab">
+        <item>Punjab has a grand collection of handicrafts and handloom products. It enjoys the repute of being one of the largest manufacturers and exporters of handloom products, handicrafts and hosiery goods in India</item>
+        <item>Shopping in Punjab include the following:</item>
+        <item>1.Durries</item>
+        <item>2.Jutties</item>
+        <item>3.Phulkaris</item>
+        <item>4.Shawls</item>
+        <item>5.Inlaid Furniture</item>
+        <item>6.Leather Goods</item>
+    </string-array>
+    <string-array name="Raj">
+        <item>Rajasthan is the largest producer of handicraft items in India. The art and craft of Rajasthan is known around the world. Tourists visiting India always desire to take back souvenirs of Rajasthani handicrafts. Many bright colored and patterned crafts of the state are used to adorn household as interior decoration. Whereas there are other crafts that produces utility products of daily use, garments, accessories and miscellaneous items.</item>
+        <item>Shopping in Rajasthan include the following:</item>
+        <item>1.Textile</item>
+        <item>2.Handmade Jewellery</item>
+        <item>3.Carpets and Durries</item>
+        <item>4.Blue Pottery</item>
+        <item>5.Rajasthan Quilts</item>
+        <item>6.Mojaris/Jutis</item>
+        <item>7.Marble Crafts</item>
+        <item>8.Wooden Furniture</item>
+        <item>9.Rajasthani Paintings</item>
+        <item>10.Puppets</item>
+    </string-array>
+    <string-array name="skim">
+        <item>Sikkim is renowned for its dazzling and appealing beauty. The charm of this state is ever enticing and no one can abstain from its allure. In fact, Sikkim is resplendent with not only its natural beauty but with its art and craft too. The cultural richness of Sikkim is visible in its quality handicrafts</item>
+        <item>Shopping in Sikkim include the following:</item>
+        <item>1.Carpet Weaving</item>
+        <item>2.Wood Carving</item>
+        <item>3.Thangka Paintings</item>
+        <item>4.Handicrafts </item>
+        <item>5.Choktse Tables</item>
+    </string-array>
+    <string-array name="tamil">
+        <item>TamilNadu has a rich heritage in handicrafts, which has evolved over centuries. They have been exuding grace and beauty since ages, and decorating millions of homes across the globe</item>
+        <item>Shoppin in TamilNadu include the following:</item>
+        <item>1.Kanchipuram Saris</item>
+        <item>2.Tanjore Gold Leaf Painting </item>
+        <item>3.Embroidery work</item>
+        <item>4.Handicrafts</item>
+        <item>5.Musical Instruments</item>
+        <item>6.Jewellery</item>
+    </string-array>
+    <string-array name="telan">
+        <item> Telangana have always been prominent in the country with the efforts of the skilled artisans who shape up diverse artefacts with their dexterity and aesthetic sense. The intricate carvings and beautiful adornments of these handicrafts make them immensely fascinating. The traditional ways applied to these crafts render them a distinct charm and they exhibit a great variety.</item>
+        <item>Shopping in Telangana include the following:</item>
+        <item>1.Hyderabad Bangles</item>
+        <item>2.Bidri Crafts</item>
+        <item>3.Banjara embroidery</item>
+        <item>4.Kalamkari Art</item>
+        <item>5.Pearl jewellery</item>
+        <item>6.Lacquer Ware</item>
+        <item>7.Dokra Metal Crafts </item>
+    </string-array>
+    <string-array name="up">
+        <item>Shopping in Uttar Pradesh is an absolute delight. The state boasts of a rich tradition of handicrafts, which make for the admired items that the shoppers look forward to buying while shopping in Uttar Pradesh.</item>
+        <item>Shopping in Uttar Pradesh include the following:</item>
+        <item>1.Stone Craft</item>
+        <item>2.Pottery</item>
+        <item>3.Glass Ware</item>
+        <item>4.Metal Ware</item>
+        <item>5.Zari Embroidery</item>
+        <item>6.Carpet Weaving</item>
+        <item>7.Chikankari</item>
+    </string-array>
+    <string-array name="wb">
+        <item>West Bengal serves as home to many talented artisans in India. The unique rustic and mystic charm of Bengal crafts is admired by art-lovers the world over. From embroidery to sculpture and sketching to metal crafts, the state has a unique specialization in many forms of craft.</item>
+        <item>Shopping in WestBengal include the following:</item>
+        <item>1.Textile</item>
+        <item>2.Silver Work</item>
+        <item>3.Handicrafts</item>
+        <item>4.Scroll Painting</item>
+        <item>5.Kantha Embroidery</item>
+    </string-array>
+    <string-array name="ori">
+        <item>Odisha, the land of dexterous artists and craftsmen, possesses a rich artistic tradition which enjoyed liberal patronage from the temples as well as the nobility. Diverse and varied, the enthralling craft-work of Odisha depicts the magic of the deft hands of these artisans and puts forth a perfect medium to get a glimpse of the spectacular world of a craftsmen’s imagination</item>
+        <item>Shopping in Orissa include the following:</item>
+        <item>1.Home-grown Farbics</item>
+        <item>2.Metal Jewelry</item>
+        <item>3.Wooden Items</item>
+        <item>4.Stone Sculptures</item>
+        <item>5.Seashells</item>
+    </string-array>
+</resources>
